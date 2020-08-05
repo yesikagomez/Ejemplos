@@ -1,6 +1,22 @@
+body {
+    background-color: #f4f1de;
+}
 
+#titulo {
+    text-align: center;
+}
 
-table, th, td {
+table {
+   width: 100%;
+}
+
+th, td {
     border: solid;
     padding: 15px;
+}
+
+#menu img {
+    height: 20rem;
+    margin-left: 100px;
+    width: 80%;
 }
